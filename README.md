@@ -1,6 +1,6 @@
 # Oracle Apex Json Viewer
 
-<h2>very simple and lite.</h2>
+<h2>very simple and lite.</h2>Cancel changes
 
 <h4>How to use:</h4>
 <ul>
@@ -16,4 +16,4 @@
 
 
 <h4>Preview:</h4>
-<img src="preview.png" width="300px">
+<img src="preview.png" width="650px">
