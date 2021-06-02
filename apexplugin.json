@@ -20,9 +20,9 @@
     "url" : "https://github.com/aghili65/OracleApexJsonViewer"
   },
  "oracle" : {
-    "versions" : ["12.1.0.2","19.1.0.0"],
+    "versions" : ["11.2.0.1", "12.1.0.1"], 
     "apex" : {
-      "versions" : ["20.2.0.00.20"],
+      "versions" : ["18.1.0", "18.2.0", "19.1.0", "19.2.0", "20.1.0", "20.2.0"],
       "plugin" : {
         "internalName" : "AAK.JSON_VIEWER.PLUGIN",
         "type" : "item",
