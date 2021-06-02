@@ -1,11 +1,19 @@
 # Oracle Apex Json Viewer
 
-very simple and lite.
+<h2>very simple and lite.</h2>
 
-How to use:
-1-import plugin in oracle apex
-2-add new PageItem in page
-3-select type "json_viewr[Plug-in]"
+<h4>How to use:</h4>
+<ul>
+  <li>1-import plugin in oracle apex</li>
+  <li>2-add new PageItem in page</li>
+  <li>3-select type "json_viewr[Plug-in]"</li>
+</ul>
 
-Demo:
-http://
+
+
+<h4>Demo:</h4>
+<a href="#" />
+
+
+<h4>Preview:</h4>
+<img src="preview.png">
