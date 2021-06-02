@@ -16,4 +16,4 @@
 
 
 <h4>Preview:</h4>
-<img src="preview.png">
+<img src="preview.png" width="300px">
