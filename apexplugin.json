@@ -1,0 +1,34 @@
+{
+  "name" : "OracleApexJsonViewr",
+  "version" : "1.0",
+  "description" : "oracle apex page item plugin for view beautiful json",
+  "keywords" : ["json", "json_viewr", "json_view", "aghili"],
+  "homepage" : "https://github.com/aghili65/OracleApexJsonViewer",
+  "bugs" : {
+    "url" : "https://github.com/aghili65/OracleApexJsonViewer/issues",
+    "email" : "aghili65@gmail.com"
+  },
+  "license" : "MIT",
+  "commercial" : "No",
+  "author" : {
+    "name" : "Abolfazl aghili",
+    "email" : "aghili65@gmail.com",
+    "url" : "No"
+  },
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/aghili65/OracleApexJsonViewer.git"
+  },
+ "oracle" : {
+    "versions" : ["19c", "12.1.0.1"],
+    "apex" : {
+      "versions" : ["5.0.0"],
+      "plugin" : {
+        "internalName" : "JSON_VIEWR",
+        "type" : "page item",
+        "demo" : "",
+        "previewImage" : ""
+      }
+    }
+  }
+}
