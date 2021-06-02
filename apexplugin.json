@@ -20,14 +20,14 @@
     "url" : "https://github.com/aghili65/OracleApexJsonViewer.git"
   },
  "oracle" : {
-    "versions" : ["19c", "12.1.0.1"],
+    "versions" : ["11.2.0.1", "12.1.0.1","18c","19c"],
     "apex" : {
       "versions" : ["5.0.0"],
       "plugin" : {
         "internalName" : "JSON_VIEWR",
-        "type" : "page item",
+        "type" : "item",
         "demo" : "",
-        "previewImage" : ""
+        "previewImage" : "https://github.com/aghili65/OracleApexJsonViewer/preview.png"
       }
     }
   }
