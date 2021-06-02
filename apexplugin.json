@@ -22,9 +22,9 @@
  "oracle" : {
     "versions" : ["12.1.0.2","19.1.0.0"],
     "apex" : {
-      "versions" : ["20.2.0.00.20"],
+      "versions" : ["20.02","21"],
       "plugin" : {
-        "internalName" : "JSON_VIEWR",
+        "internalName" : "AAK.JSON_VIEWER.PLUGIN",
         "type" : "item",
         "demo" : "",
         "previewImage" : "https://github.com/aghili65/OracleApexJsonViewer/preview.png"
