@@ -1,5 +1,5 @@
 {
-  "name" : "Oracle Apex Json Viewr",
+  "name" : "Oracle APEX Json Viewr",
   "version" : "1.0",
   "description" : "oracle apex page item plugin for view beautiful json",
   "keywords" : ["json", "json_viewr", "json_view", "aghili"],
