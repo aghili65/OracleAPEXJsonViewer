@@ -1,4 +1,4 @@
-# Oracle Apex Json Viewer
+# Oracle APEX Json Viewer
 
 <h2>very simple and lite.</h2>Cancel changes
 
