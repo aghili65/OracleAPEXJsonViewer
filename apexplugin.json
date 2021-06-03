@@ -27,7 +27,7 @@
         "internalName" : "AAK.JSONVIEWER.PLUGIN",
         "type" : "item",
         "demo" : "https://apex.oracle.com/pls/apex/aak2020/r/test-plugin/frm-plugin-json-viewer",
-        "previewImage" : "https://github.com/aghili65/OracleApexJsonViewer/preview.png"
+        "previewImage" : "https://raw.githubusercontent.com/aghili65/OracleApexJsonViewer/main/preview.png"
       }
     }
   }
