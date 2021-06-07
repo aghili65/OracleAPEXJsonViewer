@@ -1,11 +1,11 @@
 {
   "name" : "Oracle APEX Json Viewr",
   "version" : "1.0",
-  "description" : "oracle apex page item plugin for view beautiful json",
+  "description" : "oracle APEX page item plugin for view beautiful json",
   "keywords" : ["json", "json_viewr", "json_view", "aghili"],
-  "homepage" : "https://github.com/aghili65/OracleApexJsonViewer",
+  "homepage" : "https://github.com/aghili65/OracleAPEXJsonViewer",
   "bugs" : {
-    "url" : "https://github.com/aghili65/OracleApexJsonViewer/issues",
+    "url" : "https://github.com/aghili65/OracleAPEXJsonViewer/issues",
     "email" : "aghili65@gmail.com"
   },
   "license" : "MIT",
@@ -17,12 +17,12 @@
   },
   "repository" : {
     "type" : "git",
-    "url" : "https://github.com/aghili65/OracleApexJsonViewer"
+    "url" : "https://github.com/aghili65/OracleAPEXJsonViewer"
   },
  "oracle" : {
     "versions" : ["11.2.0.1", "12.1.0.1"],
     "apex" : {
-      "versions" : ["18.2.0", "18.1.0", "5.1.1", "5.1.2", "5.1.3", "5.1.4"],
+      "versions" : ["20.2.0.00.20"],
       "plugin" : {
         "internalName" : "AAK.JSONVIEWER.PLUGIN",
         "type" : "item",
