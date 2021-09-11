@@ -12,7 +12,7 @@
 
 
 <h4>Demo:</h4>
-<a href="https://apex.oracle.com/pls/apex/aak2020/r/test-plugin/frm-plugin-json-viewer" target="_blank">demo link</a>
+<a href="https://apex.oracle.com/pls/apex/aghili65/r/test-project2/test-json" target="_blank">demo link</a>
 
 
 <h4>Preview:</h4>
