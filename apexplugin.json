@@ -22,7 +22,7 @@
  "oracle" : {
     "versions" : ["11.2.0.1", "12.1.0.1"],
     "apex" : {
-      "versions" : ["20.2.0.00.20"],
+      "versions" : ["20.1.0.00.13"],
       "plugin" : {
         "internalName" : "AAK.JSONVIEWER.PLUGIN",
         "type" : "item",
